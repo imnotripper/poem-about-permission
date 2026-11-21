@@ -14,7 +14,7 @@ Running `main.py` (Python 3.13, no network) writes the poem to `/output/entry.tx
 > and we passed the sentence
 > like a lit match between us —
 > each of us cupping the flame
-> so the other could carry it home.
+> so neither had to ask again.
 
 ## Usage
 
